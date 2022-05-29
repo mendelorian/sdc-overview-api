@@ -22,7 +22,8 @@ In addition, given the large dataset, performance optimization was a key focus i
 
 ## Installation
 You can install [node](https://docs.npmjs.com/cli/v8/configuring-npm/install) and use [npm](https://docs.npmjs.com/cli/v8/configuring-npm/install) to install the dependencies.
-Navigate to the project's root directory.
+
+To install, navigate to the project's root directory and execute:
 
 ```bash
 npm install
