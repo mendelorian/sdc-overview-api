@@ -30,7 +30,7 @@ npm install
 ```
 
 ## Usage
-The following example uses axios to call the API.
+The following example uses axios to request information for product ID# 153.
 ```javascript
 axios.get('http://localhost:3000/products/153')
       .then((results) => {
